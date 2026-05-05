@@ -187,8 +187,7 @@ cd <your-repo-name>
 
 The Raspberry Pi hosts a simple web interface showing the latest sensor readings and model predictions from the CSV log.
 
-![Local Dashboard Table View](images/output.jpeg)
-![Local Dashboard Screenshot](images/dashboard.PNG)
+![Local Dashboard Table View](images/dashboard.PNG)
 
 ### ThingSpeak Visualization
 
@@ -203,7 +202,7 @@ ThingSpeak is used to visualize time‑series data for temperature, humidity, wa
 
 When the trained model predicts a flood condition, the Raspberry Pi triggers an SMS alert using the GSM module
 
-![SMS Flood Alert Example](images/test.jpeg)
+![SMS Flood Alert Example](images/output.jpeg)
 
 1. **Run LoRa receiver + ML + SMS**
 
