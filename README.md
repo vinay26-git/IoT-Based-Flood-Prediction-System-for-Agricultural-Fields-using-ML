@@ -1,4 +1,4 @@
-# IoT‑Based Flood Prediction System for Agricultural Fields using ML
+# IoT‑Based Flood Prediction System for Agricultural Fields Uing ML
 
 An end‑to‑end IoT system that monitors field conditions and predicts flood risk using machine learning, sending real‑time alerts to farmers via SMS and web dashboards
 
